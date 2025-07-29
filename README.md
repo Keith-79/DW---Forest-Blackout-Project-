@@ -43,3 +43,19 @@ Model evaluation metrics integration in dashboard.
 
 📌 Authors
 Group 4 – Data Warehouse, Spring 2025
+
+---
+
+👤 **Contributor Note – Keith Gonsalves**
+
+This fork was created to showcase my individual contributions to the Forecast Blackout – Data Warehouse Project.  
+I actively contributed to:
+
+- Developing and maintaining ETL pipelines using Apache Airflow  
+- Engineering dbt models for Snowflake transformation layers  
+- Designing Tableau dashboards to visualize power outage risks and trends  
+- Integrating weather forecast APIs and enabling 3-day ahead predictions  
+- Collaborating on counterfactual logic for model interpretation
+
+For the original group repository, visit: [puks0618/DW-Project](https://github.com/puks0618/DW-Project)
+
